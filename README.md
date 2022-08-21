@@ -15,7 +15,7 @@ Users should be able to:
 
 Links:
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://github.com/Patarchanov/Product-preview-component)
 - Live Site URL: [Live site](https://patarchanov.github.io/Product-preview-component/)
 
 Built with:
